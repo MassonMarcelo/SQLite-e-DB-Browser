@@ -10,10 +10,10 @@ Na seção Download baixe as verões mais recente dos seguintes arquivos, "sqlit
 "sqlite-tools-win-x64-3490100"  
 
 Extraia o arquivo "sqlite-dll-win-x64-3490100.zip", que vai conter o seguinte:\
-  "sqlite3.def" e "sqlite3.dll"\
+  "sqlite3.def" e "sqlite3.dll"
 
 Extraia para dentro de uma pasta os arquivos do "sqlite-tools-win-x64-3490100", sendo eles:\
-  "sqldiff", "sqlite3", "sqlite3_analyzer" e "sqlite3_rsync"\
+  "sqldiff", "sqlite3", "sqlite3_analyzer" e "sqlite3_rsync"
 
 Agora dentro dessa mesma pasta cole os arquivos extraidos do "sqlite-dll-win-x64-3490100.zip".\
 A pasta contém agora:\
