@@ -22,18 +22,18 @@ A pasta contém agora:\
   sqlite3.dll\
   sqlite3\
   sqlite3_analyzer\
-  sqlite3_rsync\
+  sqlite3_rsync
 
-Renomeie essa pasta para "sqlite3", recorte e coloque dentro do diretório Windows(C:)\
+Renomeie essa pasta para "sqlite3", recorte e coloque dentro do diretório Windows(C:)
 
-Copie o caminho da pasta para colocar dentro das variáveis de sistema, nesse caso o caminho é C:\sqlite3\
+Copie o caminho da pasta para colocar dentro das variáveis de sistema, nesse caso o caminho é C:\sqlite3
 
 Digite no menu iniciar ----> Editar as variáveis de ambiente do sistema\
 Na aba "Avançado", abra a opção "Variáveis de Ambiente..."\
 Na nova janela que abriu, vá na parte inferior, onde diz "Variáveis do sistema" e selecione "Path", depois selecione a opção "Editar"\
-Agora selecione a opção "NOVO" e cole na linha o caminho da pasta sqlite3 que já havia sido copiado anteriormente e pressione a tecla Enter, só ir fechando as janelas clicando em "OK".\
+Agora selecione a opção "NOVO" e cole na linha o caminho da pasta sqlite3 que já havia sido copiado anteriormente e pressione a tecla Enter, só ir fechando as janelas clicando em "OK".
 
-Abra o prompt de comando, digite sqlite3 e pressione Enter para testar a instalação, vai aparecer uma mensagem informando a versão instalada do SQLite.\
+Abra o prompt de comando, digite sqlite3 e pressione Enter para testar a instalação, vai aparecer uma mensagem informando a versão instalada do SQLite.
 
 OK, instalação efetuada com sucesso, se acontecer algum erro, volte a sequência de passos e tente novamente.\
 
