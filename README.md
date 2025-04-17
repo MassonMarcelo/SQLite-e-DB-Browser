@@ -44,8 +44,8 @@ Próximo passo, instalar o DB Browser.
 DB Browser: https://sqlitebrowser.org/  
 Na seção Download baixe a versão mais recente do programa, que seja compatível com o seu sistema operacional. Estarei baixando o instalador, versão:
 
-"DB.Browser.for.SQLite-v3.13.1-win64"\
+"DB.Browser.for.SQLite-v3.13.1-win64"
 
-Execute o arquivo, avançando nas opções de instalação, ao chegar na aba "Shortcuts" selecione apenas a caixa "Desktop" para "DB Browser (SQLite)".\
+Execute o arquivo, avançando nas opções de instalação, ao chegar na aba "Shortcuts" selecione apenas a caixa "Desktop" para "DB Browser (SQLite)".
 
-Ok, mais uma instalação finalizada com sucesso, se acontecer algum erro, volte a sequência de passos novamente.\
+Ok, mais uma instalação finalizada com sucesso, se acontecer algum erro, volte a sequência de passos novamente.
