@@ -35,14 +35,14 @@ Agora selecione a opção "NOVO" e cole na linha o caminho da pasta sqlite3 que 
 
 Abra o prompt de comando, digite sqlite3 e pressione Enter para testar a instalação, vai aparecer uma mensagem informando a versão instalada do SQLite.
 
-OK, instalação efetuada com sucesso, se acontecer algum erro, volte a sequência de passos e tente novamente.\
+OK, instalação efetuada com sucesso, se acontecer algum erro, volte a sequência de passos e tente novamente.
 
-Próximo passo, instalar o DB Browser.\
+Próximo passo, instalar o DB Browser.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-DB Browser: https://sqlitebrowser.org/\
-Na seção Download baixe a versão mais recente do programa, que seja compatível com o seu sistema operacional. Estarei baixando o instalador, versão:\
+DB Browser: https://sqlitebrowser.org/  
+Na seção Download baixe a versão mais recente do programa, que seja compatível com o seu sistema operacional. Estarei baixando o instalador, versão:
 
 "DB.Browser.for.SQLite-v3.13.1-win64"\
 
