@@ -3,7 +3,7 @@ Instalação SQLite e DB Browser no Windows 10
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-SQLite: https://sqlite.org/index.html\
+SQLite: https://sqlite.org/index.html  
 Na seção Download baixe as verões mais recente dos seguintes arquivos, "sqlite-dll" e "sqlite-tools" que sejam compatíveis com o seu\ sistema operacional. Estarei baixando as seguintes versões:\
 
 "sqlite-dll-win-x64-3490100.zip"\
